@@ -1,9 +1,13 @@
-### Hi there 
-- 🌱 Estou estudando atualmente ... NodeJs ![Icon Node!](/assets/node-js.png)
--  🔭 Minhas stacks são ...   
-<div style="display: inline_block">
--  🔭 Minhas stacks são ...  
-<br>
+## Olá, eu sou o Bruno :)
+  
+ <br>
+  
+> ### Atualmente estudando
+  <img align="center" alt="Bruno-NodeJs" src="/assets/node-js.png"> NodeJs
+  
+> ### Minhas stacks 
+
+<div style="display: flex">
    <img align="center" alt="Bruno-Js" src="/assets/js.png">
    <img align="center" alt="Bruno-React" src="/assets/physics.png">
    <img align="center" alt="Bruno-CSS" src="/assets/css.png">
