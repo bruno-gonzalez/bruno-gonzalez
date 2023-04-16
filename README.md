@@ -1,7 +1,7 @@
 ### Hi there 
 - 🌱 Estou estudando atualmente ... NodeJs ![Icon Node!](/assets/node-js.png)
 -  🔭 Minhas stacks são ...   
-<div>
+<div style="display: inline_block">
 -  🔭 Minhas stacks são ...  
 <br>
    <img align="center" alt="Bruno-Js" src="/assets/js.png">
