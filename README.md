@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 
+- 🌱 I’m currently learning ... ![Icon Node!](/assets/node-js.png)
+-  🔭 Minhas stacks são ... ![Icon JavaScript!](/assets/js.png) ![Icon React!](/assets/physics.png) 
 <!--
 **bruno-gonzalez/bruno-gonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
