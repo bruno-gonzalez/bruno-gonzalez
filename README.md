@@ -8,11 +8,11 @@
 > ### Minhas stacks 
 
 <div style="display: flex">
-   <img align="center" alt="Bruno-Js" src="/assets/js.png">
-   <img align="center" alt="Bruno-React" src="/assets/physics.png">
-   <img align="center" alt="Bruno-CSS" src="/assets/css.png">
-   <img align="center" alt="Bruno-HTML" src="/assets/html-5.png">
-   <img align="center" alt="Bruno-TypeScript" src="/assets/typescript.png">
+   <img align="center" alt="Bruno-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Bruno-TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   <img align="center" alt="Bruno-React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Bruno-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Bruno-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
 ##
