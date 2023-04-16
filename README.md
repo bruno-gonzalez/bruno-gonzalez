@@ -1,6 +1,14 @@
 ### Hi there 
-- 🌱 I’m currently learning ... ![Icon Node!](/assets/node-js.png)
--  🔭 Minhas stacks são ... ![Icon JavaScript!](/assets/js.png) ![Icon React!](/assets/physics.png) 
+- 🌱 Estou estudando atualmente ... NodeJs ![Icon Node!](/assets/node-js.png)
+-  🔭 Minhas stacks são ...   
+<div><br>
+   <img align="center" alt="Bruno-Js" src="/assets/js.png">
+   <img align="center" alt="Bruno-React" src="/assets/physics.png">
+   <img align="center" alt="Bruno-CSS" src="/assets/css.png">
+   <img align="center" alt="Bruno-HTML" src="/assets/html-5.png">
+</div>
+
+<!--JavaScript ![Icon JavaScript!](/assets/js.png) ReactJS ![Icon React!](/assets/physics.png) CSS ![Icon CSS!](/assets/css.png) HTML ![Icon HTML!](/assets/html-5.png)-->
 <!--
 **bruno-gonzalez/bruno-gonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
