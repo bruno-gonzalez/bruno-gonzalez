@@ -4,7 +4,7 @@
  <br>
   
 > ### Atualmente estudando
-  <img align="center" height="30" width="40" alt="Bruno-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyhton-plain.svg"> Pyhton
+  <img align="center" height="30" width="40" alt="Bruno-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"> Pyhton
   
 > ### Minhas stacks 
 
