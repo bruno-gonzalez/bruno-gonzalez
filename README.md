@@ -1,6 +1,6 @@
 ## Olá, eu sou o Bruno :)
   
-  Desenvolvedor Front-End
+  Desenvolvedor 
  <br>
   
 > ### Atualmente estudando
