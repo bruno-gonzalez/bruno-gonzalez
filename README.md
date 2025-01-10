@@ -4,11 +4,12 @@
  <br>
   
 > ### Atualmente estudando
-  <img align="center" alt="Bruno-NodeJs" src="/assets/node-js.png"> NodeJs
+  <img align="center" alt="Bruno-NodeJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"> Pyhton
   
 > ### Minhas stacks 
 
 <div style="display: flex">
+  <img align="center" alt="Bruno-NodeJs" src="/assets/node-js.png"> 
    <img align="center" height="30" width="40" alt="Bruno-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" height="30" width="40" alt="Bruno-TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img align="center" height="30" width="40" alt="Bruno-React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
